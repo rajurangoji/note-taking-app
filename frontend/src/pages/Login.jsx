@@ -2,7 +2,7 @@ import React from 'react';
 
 function Login() {
     return (
-        <div className="container mt-5 shadow    p-5">
+        <div className="container mt-5 shadow p-5">
             <h2>Login</h2>
             <form>
                 <div className="mb-3">
